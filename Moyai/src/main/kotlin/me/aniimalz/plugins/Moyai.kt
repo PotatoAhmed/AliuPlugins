@@ -56,7 +56,7 @@ class Moyai : Plugin() {
                             .setUsage(AudioAttributes.USAGE_MEDIA)
                             .build()
                     )
-                    setDataSource("https://github.com/PotatoAhmed/AliuPlugins/raw/main/moan.ogg")
+                    setDataSource("https://github.com/PotatoAhmed/AliuPlugins/raw/main/anime-moan-meme.ogg")
                     prepare()
                     start()
                 }
